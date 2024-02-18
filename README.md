@@ -8,7 +8,7 @@ Dataset:
 The dataset, sourced from GitHub (owner: sjchoi98) and Kaggle (owner: JR2NGB), comprises a total of 1378 normal fundus images and 1038 cataract fundus images.
 
 Methodology:
-Implemented a user-friendly Graphical User Interface (GUI) to visualize accuracy metrics, predicted labels, and actual labels. The hybrid model combines GLCM-derived features with the CNN architecture, enhancing the model's ability to accurately detect cataracts in fundus images.
+Implemented a simple Graphical User Interface (GUI) to visualize accuracy metrics, predicted labels, and actual labels of three models for comparison: CNN, GLCM-k-NN & GLCM-CNN.
 
 Future Improvements:
 This project lays the foundation for future enhancements in cataract detection methodologies. Potential areas for improvement include refining the hybrid model architecture, expanding the dataset to encompass diverse fundus images, and exploring advanced image processing techniques to further boost accuracy and reliability.
