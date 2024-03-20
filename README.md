@@ -12,3 +12,5 @@ Implemented a simple Graphical User Interface (GUI) to visualize accuracy metric
 
 Future Improvements:
 This project lays the foundation for future enhancements in cataract detection methodologies. Potential areas for improvement include refining the hybrid model architecture, expanding the dataset to encompass diverse fundus images, and exploring advanced image processing techniques to further boost accuracy and reliability.
+
+Link for presentation slide: https://docs.google.com/presentation/d/1WE9b-imIbO-iy5EumyTkuSQapghRwj65/edit?usp=sharing&ouid=109574231199540218009&rtpof=true&sd=true
